@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Gartner Supply Chain Symposium/Xpo\u2122",
+        "location": "Orlando, FL",
+        "date": "2022-06-06",
+        "categories": "Supply Chain"
+    },
+    {
+        "name": "Gartner Security & Risk Management Summit",
+        "location": "National Harbor, MD",
+        "date": "2022-06-07",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "\u30ac\u30fc\u30c8\u30ca\u30fc \u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30fb\u30a4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3 \uff06 \u30d3\u30b8\u30cd\u30b9\u30fb\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 \u30b5\u30df\u30c3\u30c8",
+        "location": "Japan | Virtual",
+        "date": "2022-06-16",
+        "categories": "Applications & Software Engineering"
+    },
+    {
+        "name": "Gartner Security & Risk Management Summit",
+        "location": "Sydney, Australia",
+        "date": "2022-06-21",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "Gartner Digital Workplace Summit\n",
+        "location": "Americas | Virtual",
+        "date": "2022-06-21",
+        "categories": "Applications & Software Engineering"
+    },
+    {
+        "name": "Gartner CIO Leadership Forum",
+        "location": "Japan | Virtual",
+        "date": "2022-07-06",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner Supply Chain Leaders Forum",
+        "location": "Hertfordshire, U.K.",
+        "date": "2022-07-11",
+        "categories": "Supply Chain"
+    },
+    {
+        "name": "Gartner Tech Growth & Innovation Conference",
+        "location": "Americas | Virtual",
+        "date": "2022-07-12",
+        "categories": "Technology & Service Providers"
+    },
+    {
+        "name": "\u30ac\u30fc\u30c8\u30ca\u30fc \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3 \uff06 \u30ea\u30b9\u30af\u30fb\u30de\u30cd\u30b8\u30e1\u30f3\u30c8 \u30b5\u30df\u30c3\u30c8",
+        "location": "Tokyo, Japan",
+        "date": "2022-07-25",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "Gartner Data & Analytics Summit",
+        "location": "Orlando, FL",
+        "date": "2022-08-22",
+        "categories": "Data & Analytics"
+    },
+    {
+        "name": "Gartner Identity & Access Management Summit",
+        "location": "Las Vegas, NV",
+        "date": "2022-08-22",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "\u30ac\u30fc\u30c8\u30ca\u30fc \u30c7\u30b8\u30bf\u30eb\u30fb\u30ef\u30fc\u30af\u30d7\u30ec\u30fc\u30b9 \u30b5\u30df\u30c3\u30c8",
+        "location": "Japan | Virtual",
+        "date": "2022-08-29",
+        "categories": "Applications & Software Engineering"
+    },
+    {
+        "name": "Gartner IT Symposium/Xpo\u2122",
+        "location": "Gold Coast, Australia",
+        "date": "2022-09-12",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner Security & Risk Management Summit",
+        "location": "London, U.K.",
+        "date": "2022-09-12",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "\u30ac\u30fc\u30c8\u30ca\u30fc \u30c7\u30fc\u30bf \uff06 \u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9 \u30b5\u30df\u30c3\u30c8",
+        "location": "Tokyo, Japan",
+        "date": "2022-09-14",
+        "categories": "Data & Analytics"
+    },
+    {
+        "name": "Gartner ReimagineHR Conference",
+        "location": "London, U.K.",
+        "date": "2022-09-15",
+        "categories": "Human Resources"
+    },
+    {
+        "name": "Gartner Data & Analytics Summit",
+        "location": "Mumbai, India",
+        "date": "2022-09-19",
+        "categories": "Data & Analytics"
+    },
+    {
+        "name": "Gartner Supply Chain Symposium/Xpo\u2122\n",
+        "location": "London, U.K.",
+        "date": "2022-09-27",
+        "categories": "Supply Chain"
+    },
+    {
+        "name": "Gartner IT Symposium/Xpo\u2122",
+        "location": "Orlando, FL",
+        "date": "2022-10-17",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner ReimagineHR Conference",
+        "location": "Orlando, FL",
+        "date": "2022-10-24",
+        "categories": "Human Resources"
+    },
+    {
+        "name": "Gartner IT Symposium/Xpo\u2122",
+        "location": "Tokyo, Japan",
+        "date": "2022-10-31",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner Data & Analytics Summit",
+        "location": "Sydney, Australia",
+        "date": "2022-11-07",
+        "categories": "Data & Analytics"
+    },
+    {
+        "name": "Gartner IT Symposium/Xpo\u2122",
+        "location": "Barcelona, Spain",
+        "date": "2022-11-07",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner IT Symposium/Xpo\u2122",
+        "location": "Kochi, India",
+        "date": "2022-11-14",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference",
+        "location": "London, U.K.",
+        "date": "2022-11-21",
+        "categories": "IT Infrastructure & Operations"
+    },
+    {
+        "name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference ",
+        "location": "Las Vegas, NV",
+        "date": "2022-12-06",
+        "categories": "IT Infrastructure & Operations"
+    },
+    {
+        "name": "\u30ac\u30fc\u30c8\u30ca\u30fc IT\u30a4\u30f3\u30d5\u30e9\u30b9\u30c8\u30e9\u30af\u30c1\u30e3\u3001\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3 \uff06 \u30af\u30e9\u30a6\u30c9\u6226\u7565\u30b3\u30f3\u30d5\u30a1\u30ec\u30f3\u30b9",
+        "location": "Tokyo, Japan",
+        "date": "2022-12-13",
+        "categories": "IT Infrastructure & Operations"
+    },
+    {
+        "name": "Gartner Security & Risk Management Summit",
+        "location": "Mumbai, India",
+        "date": "2023-02-13",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "Gartner Security & Risk Management Summit",
+        "location": "Dubai, UAE",
+        "date": "2023-02-27",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "Gartner CIO Leadership Forum",
+        "location": "Americas | Virtual",
+        "date": "2023-02-27",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner Identity & Access Management Summit",
+        "location": "London, U.K.",
+        "date": "2023-03-06",
+        "categories": "Security & Risk Management"
+    },
+    {
+        "name": "Gartner CIO Leadership Forum",
+        "location": "EMEA | Virtual",
+        "date": "2023-03-14",
+        "categories": "CIOs & IT Executives"
+    },
+    {
+        "name": "Gartner Application Innovation & Business Solutions Summit",
+        "location": "Las Vegas, NV",
+        "date": "2023-04-22",
+        "categories": "Applications & Software Engineering"
+    },
+    {
+        "name": "Gartner Digital Workplace Summit",
+        "location": "London, U.K.",
+        "date": "2023-05-15",
+        "categories": "Applications & Software Engineering"
+    },
+    {
+        "name": "Gartner Data & Analytics Summit",
+        "location": "London, U.K.",
+        "date": "2023-05-22",
+        "categories": "Data & Analytics"
+    },
+    {
+        "name": "Gartner Application Innovation & Business Solutions Summit",
+        "location": "London, U.K.",
+        "date": "2023-09-14",
+        "categories": "Applications & Software Engineering"
+    }
+]

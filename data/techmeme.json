@@ -1,0 +1,677 @@
+[
+    {
+        "name": "InfoComm",
+        "location": "Las Vegas",
+        "date": "Jun 4-10"
+    },
+    {
+        "name": "HYBRID, NEW DATE: RSA Conference",
+        "location": "San Francisco",
+        "date": "Jun 6-9"
+    },
+    {
+        "name": "Automate",
+        "location": "Detroit",
+        "date": "Jun 6-9"
+    },
+    {
+        "name": "VIRTUAL: WWDC",
+        "location": "",
+        "date": "Jun 6-10"
+    },
+    {
+        "name": "OpenJS World",
+        "location": "Austin, TX",
+        "date": "Jun 6-10"
+    },
+    {
+        "name": "HYBRID: EmTech Next",
+        "location": "Cambridge, MA",
+        "date": "Jun 7-8"
+    },
+    {
+        "name": "NEW LOCATION: SaaStr Europa",
+        "location": "Barcelona",
+        "date": "Jun 7-8"
+    },
+    {
+        "name": "HYBRID: cdCon",
+        "location": "Austin, TX",
+        "date": "Jun 7-8"
+    },
+    {
+        "name": "Arctic15",
+        "location": "Helsinki",
+        "date": "Jun 7-8"
+    },
+    {
+        "name": "Dcentral",
+        "location": "Austin, TX",
+        "date": "Jun 7-8"
+    },
+    {
+        "name": "MongoDB World",
+        "location": "New York",
+        "date": "Jun 7-9"
+    },
+    {
+        "name": "HYBRID: Money20/20 Europe",
+        "location": "Amsterdam",
+        "date": "Jun 7-9"
+    },
+    {
+        "name": "VIRTUAL: SUSECON Digital",
+        "location": "",
+        "date": "Jun 7-9"
+    },
+    {
+        "name": "HYBRID: Gartner Security & Risk Management Summit",
+        "location": "National Harbor, MD",
+        "date": "Jun 7-10"
+    },
+    {
+        "name": "HYBRID: Bloomberg Technology Summit",
+        "location": "San Francisco",
+        "date": "Jun 8"
+    },
+    {
+        "name": "VIRTUAL: Pure//Accelerate Techfest",
+        "location": "",
+        "date": "Jun 8"
+    },
+    {
+        "name": "South Summit",
+        "location": "Madrid",
+        "date": "Jun 8-10"
+    },
+    {
+        "name": "VIRTUAL: PlatformCon",
+        "location": "",
+        "date": "Jun 9-10"
+    },
+    {
+        "name": "B2B Rocks",
+        "location": "Montpellier, France",
+        "date": "Jun 9-11"
+    },
+    {
+        "name": "CoinDesk Consensus",
+        "location": "Austin, TX",
+        "date": "Jun 9-12"
+    },
+    {
+        "name": "HYBRID: Cisco Live! US",
+        "location": "Las Vegas",
+        "date": "Jun 12-16"
+    },
+    {
+        "name": "GOTO Amsterdam",
+        "location": "Amsterdam",
+        "date": "Jun 12-16"
+    },
+    {
+        "name": "HYBRID: Agile + DevOps West",
+        "location": "Las Vegas",
+        "date": "Jun 12-17"
+    },
+    {
+        "name": "Earnings: ORCL",
+        "location": "",
+        "date": "Jun 13"
+    },
+    {
+        "name": "HYBRID: Splunk .conf22",
+        "location": "Las Vegas",
+        "date": "Jun 13-16"
+    },
+    {
+        "name": "London Tech Week",
+        "location": "London",
+        "date": "Jun 13-17"
+    },
+    {
+        "name": "WeAreDevelopers World Congress",
+        "location": "Berlin",
+        "date": "Jun 14-15"
+    },
+    {
+        "name": "VIRTUAL: CIO's Future of Work Summit: Dynamic Work Models",
+        "location": "",
+        "date": "Jun 14-15"
+    },
+    {
+        "name": "MET AMS",
+        "location": "Amsterdam",
+        "date": "Jun 14-17"
+    },
+    {
+        "name": "Dublin Tech Summit",
+        "location": "Dublin",
+        "date": "Jun 15-16"
+    },
+    {
+        "name": "Roadmap To Billions",
+        "location": "New York",
+        "date": "Jun 15-17"
+    },
+    {
+        "name": "Viva Technology",
+        "location": "Paris",
+        "date": "Jun 15-18"
+    },
+    {
+        "name": "Earnings: ADBE",
+        "location": "",
+        "date": "Jun 16"
+    },
+    {
+        "name": "HYBRID: JSNation",
+        "location": "Amsterdam",
+        "date": "Jun 16"
+    },
+    {
+        "name": "TNW Conference + FT Future of Finance",
+        "location": "Amsterdam",
+        "date": "Jun 16-17"
+    },
+    {
+        "name": "Dreamhack Summer",
+        "location": "J\u00f6nk\u00f6ping, Sweden",
+        "date": "Jun 18-21"
+    },
+    {
+        "name": "COLLISION",
+        "location": "Toronto",
+        "date": "Jun 20-23"
+    },
+    {
+        "name": "NFT.NYC",
+        "location": "New York",
+        "date": "Jun 20-23"
+    },
+    {
+        "name": "Connect IT Global",
+        "location": "Las Vegas",
+        "date": "Jun 20-23"
+    },
+    {
+        "name": "HYBRID: Cannes Lions",
+        "location": "Cannes",
+        "date": "Jun 20-24"
+    },
+    {
+        "name": "Infosecurity Europe",
+        "location": "London",
+        "date": "Jun 21-23"
+    },
+    {
+        "name": "Amazon re:MARS",
+        "location": "Las Vegas",
+        "date": "Jun 21-24"
+    },
+    {
+        "name": "HYBRID: Open Source Summit North America + Embedded Linux Conference",
+        "location": "Austin, TX",
+        "date": "Jun 21-24"
+    },
+    {
+        "name": "Identiverse",
+        "location": "Denver",
+        "date": "Jun 21-24"
+    },
+    {
+        "name": "Tech SuperShow",
+        "location": "Fort Lauderdale, FL",
+        "date": "Jun 21-24"
+    },
+    {
+        "name": "HYBRID: Slack Frontiers",
+        "location": "New York",
+        "date": "Jun 22"
+    },
+    {
+        "name": "HYBRID: LiveSlam",
+        "location": "Cary, NC",
+        "date": "Jun 22-23"
+    },
+    {
+        "name": "VidCon US",
+        "location": "Anaheim, CA",
+        "date": "Jun 22-25"
+    },
+    {
+        "name": "HYBRID: Tech LIVE London",
+        "location": "London",
+        "date": "Jun 23-24"
+    },
+    {
+        "name": "HYBRID: Linux Security Summit North America",
+        "location": "Austin, TX",
+        "date": "Jun 23-24"
+    },
+    {
+        "name": "European Blockchain Convention",
+        "location": "Barcelona",
+        "date": "Jun 26-28"
+    },
+    {
+        "name": "HYBRID: Data+AI Summit",
+        "location": "San Francisco",
+        "date": "Jun 27-30"
+    },
+    {
+        "name": "HYBRID: Techsylvania",
+        "location": "Cluj-Napoca, Romania",
+        "date": "Jun 28-29"
+    },
+    {
+        "name": "HPE Discover",
+        "location": "Las Vegas",
+        "date": "Jun 28-30"
+    },
+    {
+        "name": "POSTPONED: MWC Shanghai",
+        "location": "Shanghai",
+        "date": "Jun 29-Jul 1"
+    },
+    {
+        "name": "Fortune Brainstorm Tech",
+        "location": "Aspen, CO",
+        "date": "Jul 11-13"
+    },
+    {
+        "name": "Startupfest",
+        "location": "Montr\u00e9al",
+        "date": "Jul 13-15"
+    },
+    {
+        "name": "VIRTUAL, NEW DATE: Microsoft Inspire",
+        "location": "",
+        "date": "Jul 19-20"
+    },
+    {
+        "name": "HYBRID: VB Transform",
+        "location": "San Francisco",
+        "date": "Jul 19-28"
+    },
+    {
+        "name": "HYBRID: Code On the Beach",
+        "location": "Atlantic Beach, FL",
+        "date": "Jul 25-27"
+    },
+    {
+        "name": "AWS re:Inforce",
+        "location": "Boston",
+        "date": "Jul 26-27"
+    },
+    {
+        "name": "Turing Fest",
+        "location": "Edinburgh",
+        "date": "Jul 27-28"
+    },
+    {
+        "name": "NEW DATE: Southern California Linux Expo",
+        "location": "Los Angeles",
+        "date": "Jul 28-31"
+    },
+    {
+        "name": "NFT Expoverse",
+        "location": "Los Angeles",
+        "date": "Jul 29-31"
+    },
+    {
+        "name": "Flash Memory Summit",
+        "location": "Santa Clara, CA",
+        "date": "Aug 2-4"
+    },
+    {
+        "name": "VIRTUAL: World Festival",
+        "location": "",
+        "date": "Aug 3-10"
+    },
+    {
+        "name": "HYBRID: Black Hat USA REGISTER NOW",
+        "location": "Las Vegas",
+        "date": "Aug 6-11"
+    },
+    {
+        "name": "HYBRID: SIGGRAPH",
+        "location": "Vancouver",
+        "date": "Aug 8-11"
+    },
+    {
+        "name": "Blockchain Futurist",
+        "location": "Toronto",
+        "date": "Aug 9-10"
+    },
+    {
+        "name": "USENIX Security Symposium",
+        "location": "Boston",
+        "date": "Aug 10-12"
+    },
+    {
+        "name": "DEF CON",
+        "location": "Las Vegas",
+        "date": "Aug 11-14"
+    },
+    {
+        "name": "CIO 100",
+        "location": "Rancho Palos Verdes, CA",
+        "date": "Aug 15-17"
+    },
+    {
+        "name": "Gainsight Pulse",
+        "location": "San Francisco",
+        "date": "Aug 17-18"
+    },
+    {
+        "name": "HITBSecConf",
+        "location": "Singapore",
+        "date": "Aug 22-26"
+    },
+    {
+        "name": "VIRTUAL: OS Summit Latin America 2022 Events",
+        "location": "",
+        "date": "Aug 23-24"
+    },
+    {
+        "name": "fintech_devcon",
+        "location": "Denver",
+        "date": "Aug 23-25"
+    },
+    {
+        "name": "HYBRID: gamescom",
+        "location": "Cologne",
+        "date": "Aug 24-28"
+    },
+    {
+        "name": "VMware Explore US",
+        "location": "San Francisco",
+        "date": "Aug 29-Sep 1"
+    },
+    {
+        "name": "IFA",
+        "location": "Berlin",
+        "date": "Sep 2-6"
+    },
+    {
+        "name": "Pirate Summit",
+        "location": "Cologne",
+        "date": "Sep 6-7"
+    },
+    {
+        "name": "Code Conference",
+        "location": "Beverly Hills",
+        "date": "Sep 6-8"
+    },
+    {
+        "name": "Commercial UAV Expo",
+        "location": "Las Vegas",
+        "date": "Sep 6-8"
+    },
+    {
+        "name": "VIRTUAL: Y Combinator Summer Demo Day",
+        "location": "",
+        "date": "Sep 7-8"
+    },
+    {
+        "name": "Intelligent Health AI Summit",
+        "location": "Basel, Switzerland",
+        "date": "Sep 7-8"
+    },
+    {
+        "name": "IBC",
+        "location": "Amsterdam",
+        "date": "Sep 9-12"
+    },
+    {
+        "name": "FinovateFall",
+        "location": "New York",
+        "date": "Sep 12-14"
+    },
+    {
+        "name": "Digital Asset Summit",
+        "location": "New York",
+        "date": "Sep 13-14"
+    },
+    {
+        "name": "SaaStr Annual",
+        "location": "San Francisco",
+        "date": "Sep 13-15"
+    },
+    {
+        "name": "AI Hardware Summit",
+        "location": "Santa Clara, CA",
+        "date": "Sep 13-15"
+    },
+    {
+        "name": "HYBRID: Open Source Summit Europe",
+        "location": "Dublin, Ireland",
+        "date": "Sep 13-16"
+    },
+    {
+        "name": "ICMC",
+        "location": "Washington, DC",
+        "date": "Sep 14-16"
+    },
+    {
+        "name": "HYBRID: Skift Global Forum",
+        "location": "New York",
+        "date": "Sep 19-21"
+    },
+    {
+        "name": "Fast Company Innovation Festival",
+        "location": "New York",
+        "date": "Sep 19-22"
+    },
+    {
+        "name": "HYBRID: Smartsheet ENGAGE",
+        "location": "Seattle",
+        "date": "Sep 19-22"
+    },
+    {
+        "name": "Dreamforce",
+        "location": "San Francisco",
+        "date": "Sep 20-22"
+    },
+    {
+        "name": "Elevate Festival",
+        "location": "Toronto",
+        "date": "Sep 20-22"
+    },
+    {
+        "name": "Insuretech Connect",
+        "location": "Las Vegas",
+        "date": "Sep 20-22"
+    },
+    {
+        "name": "VIRTUAL: JCON-Online",
+        "location": "",
+        "date": "Sep 20-23"
+    },
+    {
+        "name": "DMEXCO",
+        "location": "Cologne",
+        "date": "Sep 21-22"
+    },
+    {
+        "name": "HYBRID: Digital Procurement World",
+        "location": "Amsterdam",
+        "date": "Sep 21-22"
+    },
+    {
+        "name": "Big Data LDN + Blueprint LDN",
+        "location": "London",
+        "date": "Sep 21-22"
+    },
+    {
+        "name": "Mainnet 2022",
+        "location": "New York",
+        "date": "Sep 21-23"
+    },
+    {
+        "name": "Bits & Pretzels Founders Festival",
+        "location": "Munich",
+        "date": "Sep 25-27"
+    },
+    {
+        "name": "CSA SECtember",
+        "location": "Bellevue, WA",
+        "date": "Sep 26-30"
+    },
+    {
+        "name": "Autodesk University",
+        "location": "New Orleans",
+        "date": "Sep 27-29"
+    },
+    {
+        "name": "TOKEN2049 Asia",
+        "location": "Singapore",
+        "date": "Sep 28-29"
+    },
+    {
+        "name": "VIRTUAL: EmTech Europe",
+        "location": "",
+        "date": "Sep 28-29"
+    },
+    {
+        "name": "eCommerce Expo + Technology for Marketing",
+        "location": "London",
+        "date": "Sep 28-29"
+    },
+    {
+        "name": "MWC Las Vegas",
+        "location": "Las Vegas",
+        "date": "Sep 28-30"
+    },
+    {
+        "name": "HYBRID: SpiceWorld",
+        "location": "Austin, TX",
+        "date": "Sep 28-30"
+    },
+    {
+        "name": "White Label World Expo",
+        "location": "New York",
+        "date": "Sep 29-30"
+    },
+    {
+        "name": "CEDIA Expo",
+        "location": "Dallas",
+        "date": "Sep 29-Oct 1"
+    },
+    {
+        "name": "HYBRID: Forbes Under 30 Summit",
+        "location": "Detroit",
+        "date": "Oct 2-5"
+    },
+    {
+        "name": "HYBRID: TechEx North America",
+        "location": "Santa Clara, CA",
+        "date": "Oct 5-6"
+    },
+    {
+        "name": "Big Data & AI Toronto",
+        "location": "Toronto",
+        "date": "Oct 6-7"
+    },
+    {
+        "name": "TwitchCon",
+        "location": "San Diego",
+        "date": "Oct 7-9"
+    },
+    {
+        "name": "HYBRID: (ISC)\u00b2 Security Congress",
+        "location": "Las Vegas",
+        "date": "Oct 10-12"
+    },
+    {
+        "name": "Future Blockchain Summit",
+        "location": "Dubai",
+        "date": "Oct 10-13"
+    },
+    {
+        "name": "GITEX Technology Week",
+        "location": "Dubai",
+        "date": "Oct 10-14"
+    },
+    {
+        "name": "World Summit AI",
+        "location": "Amsterdam",
+        "date": "Oct 12-13"
+    },
+    {
+        "name": "Oracle CloudWorld",
+        "location": "Las Vegas",
+        "date": "Oct 16-20"
+    },
+    {
+        "name": "HYBRID: Authenticate",
+        "location": "Seattle",
+        "date": "Oct 17-19"
+    },
+    {
+        "name": "Gartner IT Symposium/Xpo",
+        "location": "Orlando",
+        "date": "Oct 17-20"
+    },
+    {
+        "name": "SaaStock",
+        "location": "Dublin, Ireland",
+        "date": "Oct 17-21"
+    },
+    {
+        "name": "TechCrunch Disrupt",
+        "location": "San Francisco",
+        "date": "Oct 18-20"
+    },
+    {
+        "name": "HYBRID: Adobe MAX",
+        "location": "Los Angeles",
+        "date": "Oct 18-20"
+    },
+    {
+        "name": "HYBRID: WSJ Tech Live",
+        "location": "Laguna Beach, CA",
+        "date": "Oct 24-26"
+    },
+    {
+        "name": "HYBRID: The Economist's Innovation@Work US",
+        "location": "San Jose",
+        "date": "Oct 24-26"
+    },
+    {
+        "name": "Money20/20 USA",
+        "location": "Las Vegas",
+        "date": "Oct 24-27"
+    },
+    {
+        "name": "KubeCon + CloudNativeCon North America",
+        "location": "Detroit",
+        "date": "Oct 24-28"
+    },
+    {
+        "name": "QCon",
+        "location": "San Francisco",
+        "date": "Oct 24-28"
+    },
+    {
+        "name": "Cybersat Gov",
+        "location": "Reston, VA",
+        "date": "Nov 1-3"
+    },
+    {
+        "name": "HYBRID: MIT's EmTech",
+        "location": "Cambridge, MA",
+        "date": "Nov 2-3"
+    },
+    {
+        "name": "Bosch Connected World",
+        "location": "Berlin",
+        "date": "Nov 9-10"
+    },
+    {
+        "name": "TOKEN2049 London",
+        "location": "London",
+        "date": "Nov 9-10"
+    }
+]
